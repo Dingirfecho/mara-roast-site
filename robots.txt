@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mararoast.vajrakula.com/sitemap.xml
